@@ -77,7 +77,7 @@ const css = StyleSheet.create({
         alignItems: "flex-end",
     },
     forgotText: {
-        color: "#0195fd",
+        color: "#c7e5",
         fontWeight: "bold"
     },
     btnLogin: {
@@ -86,7 +86,7 @@ const css = StyleSheet.create({
         borderWidth: 1,
         borderRadius: 10,
         marginTop: 30,
-        backgroundColor: "#0195fd"
+        backgroundColor: "#c7e5"
     },
     btnLoginText: {
         color: "white",
